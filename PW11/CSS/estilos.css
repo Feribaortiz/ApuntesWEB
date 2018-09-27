@@ -18,9 +18,9 @@ body{
 
 header{
     background: red;
-    border-radius: 5px;
+    border-radius: 10px;
     color: black;
-    padding-top: 5px;
+    padding-top: 10px;
     /*padding: 20px 0px 0px 0px;*/
     text-align: center;
 }
